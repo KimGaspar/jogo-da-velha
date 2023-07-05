@@ -1,6 +1,6 @@
 <h1 align="center"> Jogo da Velha </h1>
 
-<p align="center">
+<p>
 Projeto criado para fins de estudo, ministrado pelo professor Matheus Battisti do curso "JavaScript do básico ao avançado (c/ Node.js e projetos) " pela Udemy.
 </p>
 
